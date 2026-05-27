@@ -2,7 +2,7 @@
 name: Lottery Data Analysis & Number Generator (FC3D)
 slug: finance-lottery-fc3d
 description: AI-powered China Welfare Lottery "3D" analysis tool — covers all 3D gameplay (straight, group3, group6) with 12 analysis algorithms including frequency analysis, omission analysis, odd/even, big/small, sum value, span, remainder, prime, Monte Carlo simulation. Updated 2026 with plotly visualization for trend charts and improved consecutive pattern detection. Provides scientific number selection. Keywords: lottery, FC3D, welfare lottery, 3D lottery, number prediction, data analysis, 福彩3D, 3D选号, 直选, 组选3, 组选6, 和值, 跨度, 胆码.
-version: "4.0.1"
+version: "4.0.2"
 ---
 
 # Lottery Data Analysis & Number Generator (FC3D/福利3D) / 福彩3D预测分析师|
